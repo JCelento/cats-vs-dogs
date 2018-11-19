@@ -62,6 +62,14 @@ py kerasexp.py
 py pytorchexp.py
 ```
 
+## The result should be something like this 
+
+| Keras             |  Pytorch |
+:-------------------------:|:-------------------------:
+![Keras Result](http://oi65.tinypic.com/n4yvwj.jpg)  |  ![Pytorch Result](http://oi68.tinypic.com/rtevtf.jpg)
+
+
+
 
 
 
