@@ -1,4 +1,4 @@
-# cats-vs-dogs
+# Cats vs Dogs
 Classification examples using pytorch and keras to distinguish dogs and cats pictures
 
 ## How to run it
