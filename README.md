@@ -11,7 +11,6 @@ To install CuDNN, copy the files to Nvidia CUDA toolkit(usually is located on C:
    - Copy cudnn\bin\cudnn64_5.dll to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\
    - Copy cudnn\include\cudnn.h to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\
    - Copy cudnn\lib\x64\cudnn.lib to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\lib\x64\
-- Install Tensorflow via pip command prompt 'pip install --upgrade tensorflow-gpu'
 - Visual C++ Redistributate 2015 x64
 
 ### Install requirements with pip or conda:
